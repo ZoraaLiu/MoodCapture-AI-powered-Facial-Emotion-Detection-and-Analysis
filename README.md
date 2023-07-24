@@ -7,11 +7,15 @@ Utilizes computer algorithms to detect emotion in images/live videos
 Analyzes the type of the emotion detected
 ### Real-time Inference
 Provides real-time image/videos processing for immediate feedback
-### Libraries && Frameworks
+## Libraries && Frameworks
 OpenCV: For face detection and image manipulation 
+
 Numpy:For multi-dimensional arrays and high-level math functions
+
 Panda: data manipulation and analysis
+
 Keras: python interface for artificial neural networks
+
 matplotlib: plotting libraries and numerical mathematic extensions
 
 ## Background
