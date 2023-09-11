@@ -26,7 +26,7 @@ In today's fast-paced and technology-driven world, emotions play a significant r
 
 Driven by a strong interest in AI and a desire to explore the intersection of emotions and workplace efficiency, I embarked on this project to create an AI-powered image recognition system. The system aims to detect different types of motion in images, which can be linked to certain emotions or activities. 
 
-#### By using computer vision and deep learning techniques, I sought to identify patterns of motion associated with specific emotions, which could potentially provide insights into the emotional state of individuals in various workplace scenarios.
+#### By using computer vision and deep learning techniques, I want to identify patterns of motion associated with specific emotions, which could potentially provide insights into the emotional state of individuals in various workplace scenarios.
 
 ## Project Goals
 
